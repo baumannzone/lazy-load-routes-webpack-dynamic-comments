@@ -131,7 +131,7 @@ I usually tweet web-dev related stuffs and I'm continuously creating software on
 
 - Twitter: [@baumannzone](https://twitter.com/baumannzone)
 - Instagram: [baumannzone](https://instagram.com/baumannzone)
-- Github: [baumannzone](https://twitter.com/baumannzone)
+- Github: [baumannzone](https://github.com/baumannzone)
 - Dev.to: [baumannzone](https://dev.to/baumannzone)
 - Youtube: [Rambito JS](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
 - Medium: [@baumannsito](https://medium.com/@baumannsito/testing-con-javascript-tutorial-bb85745f2b6e)
