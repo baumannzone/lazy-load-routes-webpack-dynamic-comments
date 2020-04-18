@@ -112,12 +112,26 @@ const router = new VueRouter({
 
 ![build](build.png)
 
-More info:
-
-- Webpack code splitting: https://webpack.js.org/guides/code-splitting/
-- Magic comments: https://webpack.js.org/api/module-methods/#magic-comments
+As you see, it's extremely easy implement this in your vue.js applications. Now it's your turn. Start to improve your `router.js` file by using this awesome tip.
 
 
 
+---
 
 
+
+That's all. Thanks for reading. Share it if you liked it. And Alex, thank you for letting me write my first Vue tip. 🤘
+
+My name is [Jorge Baumann](https://instagram.com/baumannzone) and I'm a fullstack developer, actually living in Madrid. I'm into javascript, HTML, CSS, node.js, vue.js, firebase, Web APIs, etc. 
+I have a beautiful dog called Rambo, who honors my youtube (newly released) channel.
+
+[![rambitoJS](rambitoJS.png)](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
+
+I usually tweet web-dev related stuffs and I'm continuously creating software on github. I write blog posts on Medium (*spanish*) and Dev.to (*english*). 
+
+- Twitter: [@baumannzone](https://twitter.com/baumannzone)
+- Instagram: [baumannzone](https://instagram.com/baumannzone)
+- Github: [baumannzone](https://twitter.com/baumannzone)
+- Dev.to: [baumannzone](https://dev.to/baumannzone)
+- Youtube: [Rambito JS](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
+- Medium: [@baumannsito](https://medium.com/@baumannsito/testing-con-javascript-tutorial-bb85745f2b6e)
