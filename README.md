@@ -122,7 +122,7 @@ As you see, it's extremely easy implement this in your vue.js applications. Now 
 
 That's all. Thanks for reading. Share it if you liked it. And Alex, thank you for letting me write my first Vue tip. 🤘
 
-My name is [Jorge Baumann](https://instagram.com/baumannzone) and I'm a fullstack developer, actually living in Madrid. I'm into javascript, HTML, CSS, node.js, vue.js, firebase, Web APIs, etc. 
+My name is [Jorge Baumann](https://instagram.com/baumannzone) and I'm a fullstack developer, currently living in Madrid. I'm into javascript, HTML, CSS, node.js, vue.js, firebase, Web APIs, etc. 
 I have a beautiful dog called Rambo, who honors my youtube (newly released) channel.
 
 [![rambitoJS](rambitoJS.png)](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
